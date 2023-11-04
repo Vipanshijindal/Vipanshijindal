@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vipanshijindal
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning backend technologies
+- 🌱 I have worked on full stack projects
 - 📫 How to reach me through my LinkedIn profile
 
 <!---
